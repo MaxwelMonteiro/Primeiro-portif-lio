@@ -1,0 +1,9 @@
+body {
+    background: #14A0F9;
+}
+.foto-perfil {
+    height: 100%;
+    width: auto;
+    max-width: 20%;
+    border-radius: 80%;
+}
